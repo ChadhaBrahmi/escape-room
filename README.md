@@ -13,6 +13,7 @@ Navigate through 10 challenging levels, dodge traps, and unlock doors to escape 
 
 ###: Grab the key and reach the door without dying
 the key is the yellow square , just walk up to it and you’ll automatically grab it.
+
 <img width="75" height="97" alt="image" src="https://github.com/user-attachments/assets/0be62a4c-016a-4903-bf12-204c94000ccb" />
 
 When you grab the key the door will be automatically opened and its color will change to green
@@ -23,4 +24,4 @@ walk up to the door and ulll escape that room and move to the next!
 
 - if you touch the purple wall you'll die.
 
-### Levels: 10 levels, each getting progressively harder
+### Levels: 10 levels, each getting harder
